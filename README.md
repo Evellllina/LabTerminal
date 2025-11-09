@@ -74,6 +74,21 @@ shell.log.
     │   ├── README.md                          # Описание вашего проекта, с описанием файлов и с титульником о том,
                                                # что и какая задача
 </pre>
+## Допустимые команды:
+        "ls [path] [-l]                      - List files/directories",
+        "cd <a>                              - Change directory",
+        "cat <file>                          - Show file content",
+        "cp <object> <direction> [-r]        - Copy files/directories",
+        "mv <object> <direction>             - Move files",
+        "rm <object> [-r]                    - Remove files/directories",
+        "zip <s> <archive>                   - Create zip archive",
+        "unzip <archive>                     - Extract zip archive",
+        "tar <s> <archive>                   - Create tar.gz archive",
+        "untar <archive>                     - Extract tar.gz archive",
+        "grep <stroka> <path>                - Search in files",
+        "history                             - Show command history",
+        "undo                                - Undo last command",
+        "exit                                - Exit shell"
 
 ## Вывод:
 Я освоила работу с файловой системой средствами Python, реализовав основные команды управления файлами, каталогами и дополнительные плагины, также создав систему логирования в shell.log
