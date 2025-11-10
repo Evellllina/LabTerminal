@@ -1,8 +1,19 @@
-[project]
-name = "labs"
-version = "0.1.0"
-description = "Add your description here"
-requires-python = ">=3.12"
-dependencies = [
-    "pytest>=8.4.2",
+[tool.mypy]
+python_version = "3.13"
+explicit_package_bases = true
+namespace_packages = true
+
+# Игнорировать отсутствующие импорты для этих модулей
+ignore_missing_imports = true
+
+# Игнорировать конкретные модули
+[[tool.mypy.overrides]]
+module = [
+    "typer.*",
+    "pytest.*",
+    "pyfakefs.*",
+    "typer",
+    "pytest",
+    "pyfakefs"
 ]
+ignore_missing_imports = true

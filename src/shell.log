@@ -1,0 +1,97 @@
+[2025-11-01 21:37:55] ls .
+[2025-11-01 21:41:11] ls .
+[2025-11-01 21:55:29] cd src
+[2025-11-01 22:04:18] ls .
+[2025-11-01 22:06:54] cd src
+[2025-11-01 22:07:05] ls .
+[2025-11-01 22:07:18] cat cd.py
+[2025-11-01 22:08:42] ls .
+[2025-11-03 20:39:55] cat fffgthe
+[2025-11-03 20:39:55] ERROR:  No such file or directory
+[2025-11-03 21:56:46] cd LabTerminal\src
+[2025-11-04 00:07:00] ls .
+[2025-11-04 00:08:07] cat rr
+[2025-11-04 00:08:07] ERROR:  No such file or directory
+[2025-11-04 02:05:24] tar respect d.zip
+[2025-11-04 02:05:24] ERROR: No such file or directory
+[2025-11-04 02:06:19] tar rr d.zip
+[2025-11-04 02:06:19] ERROR: No such file or directory
+[2025-11-04 02:09:54] zip respect h.zip
+[2025-11-04 02:09:54] ERROR: No such file or directory
+[2025-11-04 02:10:24] zip rrr dd.zip
+[2025-11-04 02:10:24] ERROR: No such file or directory
+[2025-11-04 13:33:36] ls .
+[2025-11-04 13:36:18] ls -l
+[2025-11-04 13:36:18] ERROR: No such file or directory
+[2025-11-04 13:36:44] ls -1
+[2025-11-04 13:36:44] ERROR: No such file or directory
+[2025-11-04 13:37:00] ls --l
+[2025-11-04 13:37:00] ERROR: No such file or directory
+[2025-11-04 13:37:03] ls --1
+[2025-11-04 13:37:03] ERROR: No such file or directory
+[2025-11-04 13:38:18] ls -l
+[2025-11-04 13:38:18] ERROR: No such file or directory
+[2025-11-04 13:39:26] ls -l
+[2025-11-04 13:39:26] ERROR: No such file or directory
+[2025-11-04 13:43:28] ls -l
+[2025-11-04 13:43:28] ERROR: No such file or directory
+[2025-11-04 13:43:31] ls .
+[2025-11-04 13:44:24] ls -l
+[2025-11-04 13:44:24] ERROR: No such file or directory
+[2025-11-04 13:46:00] ls -l
+[2025-11-04 13:46:00] ERROR: No such file or directory
+[2025-11-04 13:50:46] ls -l
+[2025-11-04 13:50:46] ERROR: No such file or directory
+[2025-11-04 13:52:08] ls -l
+[2025-11-04 13:52:08] ERROR: No such file or directory
+[2025-11-04 14:08:07] ls -l
+[2025-11-04 14:08:07] ERROR: No such file or directory
+[2025-11-04 14:08:40] ls .
+[2025-11-04 14:08:43] ls -l
+[2025-11-04 14:08:43] ERROR: No such file or directory
+[2025-11-04 14:09:36] ls --
+[2025-11-04 14:09:36] ERROR: No such file or directory
+[2025-11-04 14:10:20] ls . -l
+[2025-11-04 14:23:31] ls . -l
+[2025-11-04 14:23:52] ls . -l
+[2025-11-04 14:26:07] ls --help
+[2025-11-04 14:26:07] ERROR: No such file or directory
+[2025-11-04 16:39:15] rm respect
+[2025-11-04 16:39:15] ERROR: No such file or directory
+[2025-11-04 18:34:37] ls .
+[2025-11-04 18:35:38] ls .
+[2025-11-04 18:52:58] ls .
+[2025-11-05 00:45:42] grep 1 file
+[2025-11-05 00:45:42] error: No such file or directory
+[2025-11-05 00:46:18] grep 1 file
+[2025-11-05 00:46:18] error: No such file or directory
+[2025-11-05 00:46:37] grep "1" file
+[2025-11-05 00:46:37] error: No such file or directory
+[2025-11-05 00:53:16] grep "hello" file
+[2025-11-05 00:53:16] error: No such file or directory
+[2025-11-05 00:53:56] cd src
+[2025-11-05 00:54:17] grep "11" src
+[2025-11-05 00:54:17] error: No such file or directory
+[2025-11-05 00:57:21] grep "1" file
+[2025-11-05 00:57:21] error: No such file or directory
+[2025-11-05 00:57:36] grep "1" src
+[2025-11-05 00:57:36] error: No such file or directory
+[2025-11-05 00:58:21] grep "1" \Users\Эвелина\LabTerminal\src -r
+[2025-11-05 01:02:02] cd src
+[2025-11-05 01:02:09] grep "2" file3.py
+[2025-11-05 01:02:09] error: No such file or directory
+[2025-11-05 01:02:23] grep "2" file
+[2025-11-05 01:02:23] error: No such file or directory
+[2025-11-09 01:31:16] ls .
+[2025-11-09 01:31:47] grep 1 cp.py
+[2025-11-09 01:32:18] grep "typer" cp.py
+[2025-11-09 01:43:30] grep 2 C:\Users\Эвелина\LabTerminal\src -r
+[2025-11-09 01:43:57] grep 2 C:\Users\Эвелина\LabTerminal\src
+[2025-11-09 01:49:56] grep 2 C:\Users\Эвелина\LabTerminal\
+[2025-11-09 01:50:16] grep 21 C:\Users\Эвелина\LabTerminal\
+[2025-11-09 01:50:32] grep 21 C:\Users\Эвелина\LabTerminal\ -r
+[2025-11-09 02:42:16] ls .
+[2025-11-10 02:56:17] ls .
+[2025-11-10 03:20:56] ls .
+[2025-11-10 10:56:01] ls .
+[2025-11-10 13:14:01] ls .
